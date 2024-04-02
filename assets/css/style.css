@@ -1,0 +1,72 @@
+body{
+    font-family: "Roboto", sans-serif; /* Google Font Roboto se utiliza para el body de esta página */
+}
+
+.custom-navbar{
+    background-color: #28A745; /* Color de fondo de la barra de navegación */
+    color: #FFFFFF;
+}
+
+header img{
+    height: 4vh;
+}
+
+.nav-item a{
+    color: #FFFFFF;
+}
+
+main{
+    background-color: #FFFFFF; /* Color de fondo del main */
+}
+
+.card img{
+    height: 30vh; /* Altura de las imágenes de las tarjetas, ocupan el 30% del viewport */
+    width: 100%; /* Ancho de las imágenes de las tarjetas, ocupan el 100% del contenedor */
+    object-fit: cover; /* Ajuste de la imagen al contenedor, cubre el contenedor*/
+
+}
+.card-text p{
+    color: #212529; /* Color del texto de las tarjetas */
+}
+
+.card-body p, h6{
+    color:#707070;
+}
+
+.d-flex p, i{
+    font-size: smaller;
+}
+
+i{
+    color: #707070; /* Color del icono */
+    font-size: 0.6em; /* Tamaño del icono */
+
+}
+
+.card-body h5{
+    color: #28A745; /* Color del título de las tarjetas */
+}
+
+
+#contact{
+    background-color: #28A745; /* Color de fondo de la sección contact */
+    color: #FFFFFF; /* Color del texto de la sección contact */
+}
+#contact .btn{
+    background-color: #F8F9FA; /* Color de fondo del botón */
+    border-color: #DDDDDD; /* Color del borde del botón */
+    color: #212529; /* Color del texto del botón */
+    font-weight: bold; /* Peso de la fuente del botón */
+}
+footer{
+    background-color: #FFFFFF; /* Color de fondo del footer */
+    color: #707070;
+}
+
+footer img{
+    height: 4vh; /* Altura de la imagen del footer */
+
+}
+
+
+
